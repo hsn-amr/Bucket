@@ -16,6 +16,7 @@
 		8474A5C22765D7A20051B89F /* BucketTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8474A5C12765D7A20051B89F /* BucketTests.swift */; };
 		8474A5CC2765D7A20051B89F /* BucketUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8474A5CB2765D7A20051B89F /* BucketUITests.swift */; };
 		8474A5CE2765D7A20051B89F /* BucketUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8474A5CD2765D7A20051B89F /* BucketUITestsLaunchTests.swift */; };
+		8474A5DB2765DC3E0051B89F /* AddTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8474A5DA2765DC3E0051B89F /* AddTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8474A5C72765D7A20051B89F /* BucketUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BucketUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8474A5CB2765D7A20051B89F /* BucketUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketUITests.swift; sourceTree = "<group>"; };
 		8474A5CD2765D7A20051B89F /* BucketUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8474A5DA2765DC3E0051B89F /* AddTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				8474A5B32765D7A10051B89F /* Assets.xcassets */,
 				8474A5B52765D7A10051B89F /* LaunchScreen.storyboard */,
 				8474A5B82765D7A10051B89F /* Info.plist */,
+				8474A5DA2765DC3E0051B89F /* AddTableViewController.swift */,
 			);
 			path = Bucket;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				8474A5AF2765D7A00051B89F /* ViewController.swift in Sources */,
 				8474A5AB2765D7A00051B89F /* AppDelegate.swift in Sources */,
 				8474A5AD2765D7A00051B89F /* SceneDelegate.swift in Sources */,
+				8474A5DB2765DC3E0051B89F /* AddTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
